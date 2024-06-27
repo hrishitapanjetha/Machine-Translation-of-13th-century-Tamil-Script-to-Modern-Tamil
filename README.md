@@ -1,2 +1,2 @@
 # Machine-Translation-of-13th-century-Tamil-Script-to-Modern-Tamil
- 
+This project has demonstrated the remarkable potential of machine learning in unlocking and studying ancient languages. Through deep learning, we have showcased how once considered inaccessible, these languages can now be deciphered and analyzed with greater efficiency and accuracy. Looking ahead, there are ample opportunities for further enhancements, particularly in refining the dataset and optimizing pre-processing techniques. By continuing to refine these aspects, we can undoubtedly deepen our understanding and broaden the applicability of machine learning in unraveling the mysteries of ancient languages.
